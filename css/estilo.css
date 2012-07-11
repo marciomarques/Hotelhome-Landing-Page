@@ -152,3 +152,21 @@ p {
 	visibility: hidden;
 	text-indent: -9999px;
 }
+
+.voltar {
+	width: 200px;
+	line-height: 50px;	
+	background: #ccc;
+	text-align: center;
+	margin-left: 100px;
+	border: 1px solid #eee;
+}
+
+.voltar a{
+	color: white;
+	display: block;
+}
+
+.voltar a:hover{
+	color: #eee;
+}
